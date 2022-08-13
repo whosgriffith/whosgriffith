@@ -20,6 +20,3 @@ I'm currently working in [Statbot v2](https://github.com/whosgriffith/statbot-ap
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=whosgriffith&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whosgriffith&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=whosgriffith&theme=radical&no-frame=true&no-bg=false&margin-w=4)
