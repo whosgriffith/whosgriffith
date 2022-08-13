@@ -18,7 +18,6 @@ I'm currently working in [Statbot v2](https://github.com/whosgriffith/statbot-ap
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=whosgriffith&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=whosgriffith&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whosgriffith&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
