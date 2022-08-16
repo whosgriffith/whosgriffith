@@ -1,9 +1,4 @@
-# 💫 About Me
-Backend developer
-
-Python <3
-
-I'm currently working in [Statbot v2](https://github.com/whosgriffith/statbot-api)
+Currently working in [Statbot v2](https://github.com/whosgriffith/statbot-api)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasrep/) 
 
