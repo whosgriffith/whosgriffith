@@ -15,3 +15,4 @@ Check [Statbot](https://github.com/whosgriffith/statbot) for Discord
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=whosgriffith&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whosgriffith&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whosgriffith)](https://github.com/anuraghazra/github-readme-stats)
